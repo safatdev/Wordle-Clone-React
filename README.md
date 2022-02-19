@@ -7,3 +7,7 @@ This was a challenge to recreate the popular wordle game, some features were not
 Reads from the data.txt and outputs json
 
 ### Frontend - React.js
+
+---
+
+Preview: https://www.youtube.com/watch?v=-MPLWn0FRQQ
