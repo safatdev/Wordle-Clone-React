@@ -1,0 +1,42 @@
+body.dark {
+    color: #fff;
+    background-color: #000;
+}
+body.dark .header {
+    border-color: #333;
+}
+body.dark .grid > .word > .letter {
+    border-color: #222;
+}
+body.dark .grid > .word > .letter.p,
+body.dark .keyboard > .row > .key.p {
+    background-color: green;
+    border-color: green;
+    color: #fff;
+}
+body.dark .grid > .word > .letter.c,
+body.dark .keyboard > .row > .key.c {
+    background-color: orange;
+    border-color: orange;
+    color: #fff;
+}
+body.dark .keyboard > .row > .key {
+    background-color: #333;
+}
+body.dark .grid > .word > .letter.n,
+body.dark .keyboard > .row > .key.n {
+    background-color: #111;
+    color: #fff;
+}
+body.dark .keyboard > .row > .key:hover {
+    background-color: #555;
+}
+body.dark .alert > .success {
+    background-color: green;
+}
+body.dark .alert > .failure {
+    background-color: orange;
+}
+body.dark .dark-mode-button {
+    color: #fff;
+}

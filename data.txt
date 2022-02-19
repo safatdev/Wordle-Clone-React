@@ -1,0 +1,6 @@
+SECONDS_TILL_UPDATE=86400
+TIME_CHANGE=15:00
+LAST_UPDATE=2022-02-07
+CURRENT_WORD=alien
+-WORDS
+fuzzy,abort,algae,alive,urban,fancy
