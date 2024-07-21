@@ -1,13 +1,12 @@
-### Simple Wordle Clone
----
+# Simple Wordle Clone
 
-This was a challenge to recreate the popular wordle game, some features were not implemented due to time constraints
+This was a challenge to recreate the popular wordle game, some features were not implemented due to time constraints.
 
-### Backend - Vanilla PHP
-Reads from the data.txt and outputs json
+Front-end written in React, while the very-simplistic "Back-end", written in PHP.
 
-### Frontend - React.js
 
----
+## Screenshot
+![Screenshot](https://github.com/safatdev/Wordle-Clone-React/blob/main/simple_wordle_clone_screen.png?raw=true)
 
-Preview: https://www.youtube.com/watch?v=-MPLWn0FRQQ
+## Video Preview
+https://www.youtube.com/watch?v=-MPLWn0FRQQ
