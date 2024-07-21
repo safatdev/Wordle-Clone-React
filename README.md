@@ -2,7 +2,7 @@
 
 This was a challenge to recreate the popular wordle game, some features were not implemented due to time constraints.
 
-Front-end written in React, while the very-simplistic "Back-end", written in PHP.
+Front-end written in React, while the very-simplistic "Back-end/API", written in PHP.
 
 
 ## Screenshot
